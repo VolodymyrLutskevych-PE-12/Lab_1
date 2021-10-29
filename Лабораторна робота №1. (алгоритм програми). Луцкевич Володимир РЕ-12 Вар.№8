@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-29T17:40:53.567Z" agent="5.0 (Windows)" etag="IMPlboPIM5nbDPNUP5Gu" version="15.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-29T17:46:01.039Z" agent="5.0 (Windows)" etag="nODcrimMT49GUa5ZVEHi" version="15.6.2" type="github">
   <diagram id="hbBa8_mGliunTnmTuVeW" name="Page-1">
     <mxGraphModel dx="1422" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -73,6 +73,11 @@
         <mxCell id="ebZJSagp0G1NVj3_PQRr-28" value="N&amp;lt;=0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="710" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="ebZJSagp0G1NVj3_PQRr-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ebZJSagp0G1NVj3_PQRr-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ebZJSagp0G1NVj3_PQRr-30" value="Located &#39;delta&#39;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="870" width="120" height="60" as="geometry" />
         </mxCell>
@@ -87,6 +92,11 @@
         </mxCell>
         <mxCell id="ebZJSagp0G1NVj3_PQRr-34" value="Enter value x1, x2" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="680" y="560" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ebZJSagp0G1NVj3_PQRr-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ebZJSagp0G1NVj3_PQRr-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="920" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ebZJSagp0G1NVj3_PQRr-36" value="Located &#39;N&#39;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="680" y="880" width="80" height="80" as="geometry" />
@@ -124,6 +134,21 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="510" as="sourcePoint" />
             <mxPoint x="90" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ebZJSagp0G1NVj3_PQRr-53" value="&lt;div&gt;All values in the form of the table are displayed.&lt;/div&gt;&lt;div&gt;Considering the speified function.&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="360" y="950" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ebZJSagp0G1NVj3_PQRr-56" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="900" as="sourcePoint" />
+            <mxPoint x="390" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ebZJSagp0G1NVj3_PQRr-59" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.827;entryY=-0.018;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="ebZJSagp0G1NVj3_PQRr-53">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="451" y="920" as="sourcePoint" />
+            <mxPoint x="480" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
