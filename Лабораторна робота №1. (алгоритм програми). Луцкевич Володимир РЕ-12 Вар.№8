@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-29T17:37:26.450Z" agent="5.0 (Windows)" etag="koevlj29g3WABC9mMLT2" version="15.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-29T17:39:19.392Z" agent="5.0 (Windows)" etag="KwW2j-OizOzE-S7YeiZU" version="15.6.2" type="github">
   <diagram id="hbBa8_mGliunTnmTuVeW" name="Page-1">
     <mxGraphModel dx="1422" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -77,11 +77,37 @@
         <mxCell id="ebZJSagp0G1NVj3_PQRr-32" value="2" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="680" y="420" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="ebZJSagp0G1NVj3_PQRr-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ebZJSagp0G1NVj3_PQRr-34" target="ebZJSagp0G1NVj3_PQRr-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ebZJSagp0G1NVj3_PQRr-34" value="Enter value x1, x2" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="680" y="560" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ebZJSagp0G1NVj3_PQRr-36" value="Located &#39;N&#39;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="680" y="840" width="80" height="80" as="geometry" />
+          <mxGeometry x="680" y="880" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ebZJSagp0G1NVj3_PQRr-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ebZJSagp0G1NVj3_PQRr-39" target="ebZJSagp0G1NVj3_PQRr-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ebZJSagp0G1NVj3_PQRr-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ebZJSagp0G1NVj3_PQRr-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ebZJSagp0G1NVj3_PQRr-39" value="delta&amp;lt;=0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="750" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ebZJSagp0G1NVj3_PQRr-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ebZJSagp0G1NVj3_PQRr-40" target="ebZJSagp0G1NVj3_PQRr-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ebZJSagp0G1NVj3_PQRr-40" value="Enter &#39;delta&#39;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ebZJSagp0G1NVj3_PQRr-47" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="810" y="650" as="sourcePoint" />
+            <mxPoint x="720" y="650" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
